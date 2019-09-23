@@ -1,6 +1,6 @@
 # MineriaBioinfo
 
-Garcia Flores Fernanda Renee
+Garcia Flores Fernanda Renee \t
 Lopez Martinez Daniel Alejandro
 Sanchez Pichardo Brenda Eloisa
 Schafer Juarez-Badillo Alejandra Nicole
