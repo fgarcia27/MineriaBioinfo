@@ -16,7 +16,7 @@ En este proyecto utilizamos campos aleatorios condicionales para poder etiquetar
 
 
 ### Objetivo
-Repasar las herramientas obtenidas en la clase de Bioinformática I en el módulo: Minería de textos impartido por Carlos Méndez.       
+Repasar las herramientas obtenidas en la clase de Bioinformática I en el módulo: Minería de textos impartida por Carlos Méndez.       
 Subir el F1-score de 0.842 modificando los parámetros que tomara en cuenta el modelo. 
 
 
