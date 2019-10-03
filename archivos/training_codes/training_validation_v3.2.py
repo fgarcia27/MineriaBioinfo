@@ -80,7 +80,7 @@ def word2features(sent, i):
         #'word[:3]': word[:3],
         #'word[:2]': word[:2],
         #'word[:1]': word[:1],
-        #'endsConLow()={}'.format(endsConLow(word)): endsConLow(word),
+        'endsConLow()={}'.format(endsConLow(word)): endsConLow(word),
     }
     if i > 0:
         listElem = sent[i - 1].split('|')
