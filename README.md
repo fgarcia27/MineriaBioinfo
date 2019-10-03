@@ -16,12 +16,12 @@ En este proyecto utilizamos campos aleatorios condicionales para poder etiquetar
 
 
 ### Objetivo
-Repasar las herramientas obtenidas en la clase de Bioinformática I en el módulo: Minería de textos impartida por Carlos Méndez.       
-Subir el F1-score de 0.842 modificando los parámetros que tomara en cuenta el modelo. 
+Repasar las herramientas obtenidas en la clase de Bioinformática I en el módulo Minería de textos impartida por Carlos Méndez.       
+Subir el F1-score de 0.842 modificando los parámetros que tomará en cuenta el modelo. 
 
 
 ### Contenido
-En este repositorio se encuentran todo el material que utilizamos para correr el código de campos aleatorios condicionales.     
+En este repositorio se encuentra todo el material que utilizamos para correr el código de campos aleatorios condicionales.     
 - Hay una carpeta ('archivos') la cual contiene 3 carpetas dentro.
     - _data-sets_: tiene todos los datos que se utilizaron para correr los códigos. Los 455 abstracts, junto con los genes. Para el funcionamiento del codigo es necesario dividir los datos entre datos de entrenamiento y de evaluación. Esta división es 70-30, donde 70 son de entrenamiento y 30 de evaluación. Tenemos otro archivo de 35 datos de entrenamiento, estos son la mitad de los datos que tenemos originalmente de entrenamiento, estos los tenemos para evaluar el comportamiento del código al tener menos datos de entrenamiento. 
     - _training_codes_: tiene las 3 versiones que utilizamos para el código, estas nos las proporciono Carlos Méndez. Decidimos trabajar con la versión 3, por lo tanto, tenemos las versiones 3.1, 3.2 y 3.3 en la carpeta. 
