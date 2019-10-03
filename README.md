@@ -20,8 +20,10 @@ Repositorio para almacenar los scripts y datos necesarios para evaluar el rendim
 
 
 ### Contenido
-En este repositorio se encuentran los datos que utilizamos para poder 
-
+En este repositorio se encuentran todo el material que utilizamos para correr el codigo de campos aleatorios condicionales.     
+Hay una carpeta ('archivos') la cual contiene 3 carpetas dentro.
+- data-sets: tiene todos los datos que se utilizaron para correr los codigos. Los 455 abstracts, junto con los genes. Para el funcionamiento del codigo es necesario dividir los datos entre datos de entrenamiento y de evaluación. Esta división es 70-30, donde 70 son de entrenamiento y 30 de evaluación. Tenemos otro archivo de 35 datos de entrenamiento, estos son la mitad de los datos que tenemos originalmente de entrenamiento, estos los tenemos para evaluar el comportamiento del codigo al tener menos datos de entrenamiento. 
+- training_codes: tiene las 3 versiones que utilizamos para el codigo.
 
 
 
