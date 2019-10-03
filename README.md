@@ -20,7 +20,7 @@ Repositorio para almacenar los scripts y datos necesarios para evaluar el rendim
 
 
 ### Contenido
-En este repositorio se encuentran los datos que utilizamos para...
+En este repositorio se encuentran los datos que utilizamos para poder 
 
 
 
