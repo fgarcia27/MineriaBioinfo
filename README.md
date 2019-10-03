@@ -1,7 +1,7 @@
 # MineriaBioinfo
 
 ### Nombre del proyecto 
-
+Campos aleatorios condicionales 
 
 ### Participantes 
  Garcia Flores Fernanda Renee      
@@ -12,11 +12,12 @@
 
 
 ### Descripción del proyecto 
-h
+En este proyecto utilizamos campos aleatorios condicionales para poder etiquetar genes de abstracts de articulos. 
 
 
 ### Objetivo
-Repositorio para almacenar los scripts y datos necesarios para evaluar el rendimiento de...
+Repasar las herramientas obtenidas en la clase de Bioinformática I en el modulo: Minería de textos.       
+Subir el F1-score de 0.842 modificando las carcateristicas que tomara en cuenta el modelo. 
 
 
 ### Contenido
